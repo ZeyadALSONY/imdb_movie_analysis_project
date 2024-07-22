@@ -28,7 +28,9 @@ plot_keywords
 
 ![image](https://github.com/user-attachments/assets/add8a70e-1a3b-4ab6-839d-7f2dba0a9099)
 
-#### 3. Handling missing values.
-- ![image](https://github.com/user-attachments/assets/0d07b0be-538b-470b-9487-742be43534d2)   - ![image](https://github.com/user-attachments/assets/63a443b6-45c6-446f-a59f-c73d90968eb4)
+#### 3. Handling missing values
+- Replaced blank values in the "language" column with "English".
+![image](https://github.com/user-attachments/assets/0d07b0be-538b-470b-9487-742be43534d2)
+![image](https://github.com/user-attachments/assets/63a443b6-45c6-446f-a59f-c73d90968eb4)
 
 
