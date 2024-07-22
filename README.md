@@ -25,6 +25,7 @@ plot_keywords
 
 #### 2. Remove Special Characters 
 - In the dataset, I removed the character "Â" from all movie titles. This character appeared in titles 
+![image](https://github.com/user-attachments/assets/add8a70e-1a3b-4ab6-839d-7f2dba0a9099)
 
 #### Handling missing values.
 kkkkk
