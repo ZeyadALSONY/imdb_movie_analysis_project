@@ -40,5 +40,9 @@ plot_keywords
 ## Data Analysis
 ### Key Performance Indicator (KPI)
 - Success Definition: A film is considered successful if its profit is greater than its budget.
+ ### 1-Creation of "Success or Failure" Column
+- Action: Added a calculated column named "Success or Failure".
+- Formula: =IF([@gross] > [@budget], "Success", "Failure")
+- Purpose: This column was created to categorize films based on their financial performance. If a film's gross revenue is greater than its budget, it is labeled as "Success"; otherwise, it is labeled as "Failure".
 
 
