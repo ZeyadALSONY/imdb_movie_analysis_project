@@ -33,7 +33,7 @@ plot_keywords
   - Before
   
 ![image](https://github.com/user-attachments/assets/0d07b0be-538b-470b-9487-742be43534d2)
-      - After
+  -- After
 
 ![image](https://github.com/user-attachments/assets/63a443b6-45c6-446f-a59f-c73d90968eb4)
 
