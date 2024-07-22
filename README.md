@@ -4,9 +4,21 @@
 
 - [Project Overview](#project-overview)
 - [Data Sources](#data-sources)
-- [Recommendations](#recommendations)
+- [Data Cleaning/Preparation](#Data Cleaning/Preparation)
 
 ### Project Overview
 ---
+This project aims to help a film production company develop a successful movie by analyzing IMDB movie data. The analysis will examine various factors contributing to film success.
 
-This data analysis project aims to provide insights into the sales performance of an e-commerce company over the past year. By analyzing various aspects of the sales data, we seek to identify trends, make data-driven recommendations, and gain a deeper understanding of the company's performance.
+
+### Data Sources
+
+IMDB Movie Data: The primary dataset used for this analysis is the "IMDB Movie ANALYSIS.xlsx" file, containing detailed information about various movies. 
+
+
+### Data Cleaning/Preparation
+
+In the initial data preparation phase, we performed the following tasks:
+1. Data loading and inspection.
+2. Handling missing values.
+3. Data cleaning and formatting.
