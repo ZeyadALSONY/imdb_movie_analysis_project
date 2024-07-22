@@ -31,7 +31,7 @@ plot_keywords
 #### 3. Handling missing values
 - Replaced blank values in the "language" column with "English".
 
-- - Before
+ - Before
 
 ![image](https://github.com/user-attachments/assets/0d07b0be-538b-470b-9487-742be43534d2)
 - After
