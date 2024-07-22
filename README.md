@@ -21,7 +21,8 @@ IMDB Movie Data: The primary dataset used for this analysis is the "IMDB Movie A
 
 In the initial data preparation phase, we performed the following tasks:
 #### 1. Remove irrelevant columns from data set 
-plot_keywords 
+plot_keywords
+- contain a set of keywords related to important themes or elements in the film. These keywords help in identifying key aspects of the film's plot. Here's a breakdown:
 
 #### Handling missing values.
 kkkkk
