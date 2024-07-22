@@ -4,7 +4,7 @@
 
 - [Project Overview](#project-overview)
 - [Data Sources](#data-sources)
-- [Data Cleaning/Preparation](#DataCleaning/Preparation)
+- [Data Cleaning/Preparation](#Data-Cleaning)
 
 
 ### Project Overview
@@ -17,7 +17,7 @@ This project aims to help a film production company develop a successful movie b
 IMDB Movie Data: The primary dataset used for this analysis is the "IMDB Movie ANALYSIS.xlsx" file, containing detailed information about various movies. 
 
 
-### Data Cleaning/Preparation
+### Data Cleaning
 
 In the initial data preparation phase, we performed the following tasks:
 1. Data loading and inspection.
