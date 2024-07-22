@@ -23,5 +23,8 @@ IMDB Movie Data: The primary dataset used for this analysis is the "IMDB Movie A
 plot_keywords
 - contain a set of keywords related to important themes or elements in the film. These keywords help in identifying key aspects of the film's plot.
 
+#### 2. Remove Special Characters 
+-- In the dataset, I removed the character "Â" from all movie titles. This character appeared in titles 
+
 #### Handling missing values.
 kkkkk
