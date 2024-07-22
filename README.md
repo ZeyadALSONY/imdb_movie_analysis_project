@@ -20,6 +20,8 @@ IMDB Movie Data: The primary dataset used for this analysis is the "IMDB Movie A
 ### Data Cleaning
 
 In the initial data preparation phase, we performed the following tasks:
-1. Data loading and inspection.
-2. Handling missing values.
-3. Data cleaning and formatting.
+##### 1. Remove irrelevant columns from data set 
+plot_keywords 
+
+#### Handling missing values.
+kkkkk
