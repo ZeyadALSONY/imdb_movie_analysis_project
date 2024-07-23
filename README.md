@@ -48,5 +48,7 @@ plot_keywords
 - Formula: =IF([@gross] > [@budget], "Success", "Failure")
 - Purpose: This column was created to categorize films based on their financial performance. If a film's gross revenue is greater than its budget, it is labeled as "Success"; otherwise, it is labeled as "Failure".
 
+![image](https://github.com/user-attachments/assets/ac0fe1b1-2370-42b2-8a1d-dea921a9d781)
+
 ## Data Analysis
 
