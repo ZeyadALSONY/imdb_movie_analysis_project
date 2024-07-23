@@ -57,13 +57,21 @@ plot_keywords
 
 ![image](https://github.com/user-attachments/assets/5dbbcdef-aada-4685-baf0-7db07e8971e8)
 
-### Best Actors
+![image](https://github.com/user-attachments/assets/384a0388-a1fe-4c32-b3c7-8c0ef598c96b)
+
+
+### Best Actors pivot table
 - Purpose: To determine the actors who frequently appear in successful films.
 
 ![image](https://github.com/user-attachments/assets/951e63e8-e263-445a-8e8a-b15df9e0a22b)
 
-### Best Actors and Directors
+![image](https://github.com/user-attachments/assets/f94c7a62-01a9-497f-9510-4bec8f1ee557)
+
+
+### Best Actors and Directors pivot table
 - Purpose: To examine the combination of actors and directors that leads to the highest film success rates.
 
 ![image](https://github.com/user-attachments/assets/8ca553ec-5362-4de3-8b1e-42c29a0ce15b)
+
+![image](https://github.com/user-attachments/assets/b7a801be-e2fa-4f07-bfa1-9f4d04d0eb6b)
 
