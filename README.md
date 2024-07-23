@@ -51,4 +51,12 @@ plot_keywords
 ![image](https://github.com/user-attachments/assets/ac0fe1b1-2370-42b2-8a1d-dea921a9d781)
 
 ## Data Analysis
+To identify patterns and factors contributing to the success of films, I created three pivot tables to analyze the data from different perspectives:
+
+### Best Directors
+- Purpose: To identify the directors associated with the most successful films (where profit > budget).
+### Best Actors
+- Purpose: To determine the actors who frequently appear in successful films.
+### Best Actors and Directors
+- Purpose: To examine the combination of actors and directors that leads to the highest film success rates.
 
