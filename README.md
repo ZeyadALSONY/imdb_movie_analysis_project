@@ -56,8 +56,14 @@ plot_keywords
 - Purpose: To identify the directors associated with the most successful films (where profit > budget).
 
 ![image](https://github.com/user-attachments/assets/5dbbcdef-aada-4685-baf0-7db07e8971e8)
+
 ### Best Actors
 - Purpose: To determine the actors who frequently appear in successful films.
+
+![image](https://github.com/user-attachments/assets/951e63e8-e263-445a-8e8a-b15df9e0a22b)
+
 ### Best Actors and Directors
 - Purpose: To examine the combination of actors and directors that leads to the highest film success rates.
+
+![image](https://github.com/user-attachments/assets/8ca553ec-5362-4de3-8b1e-42c29a0ce15b)
 
