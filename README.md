@@ -52,6 +52,7 @@ plot_keywords
 
 ## Data Analysis
 To identify patterns and factors contributing to the success of films, I created three pivot tables to analyze the data from different perspectives:
+
 ![image](https://github.com/user-attachments/assets/5dbbcdef-aada-4685-baf0-7db07e8971e8)
 
 ### Best Directors
