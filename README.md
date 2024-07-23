@@ -16,6 +16,16 @@ This project aims to help a film production company develop a successful movie b
 
 IMDB Movie Data: The primary dataset used for this analysis is the "IMDB Movie ANALYSIS.xlsx" file, containing detailed information about various movies. 
 
+## Key Performance Indicator (KPI)
+- Success Definition: A film is considered successful if its profit is greater than its budget.
+ ### 1-Creation of "Success or Failure" Column
+- Action: Added a calculated column named "Success or Failure".
+- Formula: =IF([@gross] > [@budget], "Success", "Failure")
+- Purpose: This column was created to categorize films based on their financial performance. If a film's gross revenue is greater than its budget, it is labeled as "Success"; otherwise, it is labeled as "Failure".
+
+## Direct KPIs
+- Director Name: Analyzing the directors of successful films to identify any commonalities or notable patterns.
+- Actor Name: Studying the actors in successful films to understand their impact on a film's success.
 
 ## Data Cleaning
 
@@ -38,14 +48,4 @@ plot_keywords
 ![image](https://github.com/user-attachments/assets/63a443b6-45c6-446f-a59f-c73d90968eb4)
 
 ## Data Analysis
-## Key Performance Indicator (KPI)
-- Success Definition: A film is considered successful if its profit is greater than its budget.
- ### 1-Creation of "Success or Failure" Column
-- Action: Added a calculated column named "Success or Failure".
-- Formula: =IF([@gross] > [@budget], "Success", "Failure")
-- Purpose: This column was created to categorize films based on their financial performance. If a film's gross revenue is greater than its budget, it is labeled as "Success"; otherwise, it is labeled as "Failure".
-
-## Direct KPIs
-- Director Name: Analyzing the directors of successful films to identify any commonalities or notable patterns.
-- Actor Name: Studying the actors in successful films to understand their impact on a film's success.
 
