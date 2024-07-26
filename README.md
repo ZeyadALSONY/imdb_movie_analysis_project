@@ -77,10 +77,9 @@ plot_keywords
 ![image](https://github.com/user-attachments/assets/b7a801be-e2fa-4f07-bfa1-9f4d04d0eb6b)
 
 ## Results/Findings
+- The bar chart below illustrates the total number of successes or failures for movies directed by Steven Spielberg, starring either Tom Cruise or Harrison Ford.
+- Tom Cruise: Movies starring Tom Cruise have a total count of 2.
+- Harrison Ford: Movies starring Harrison Ford have a total count of 4.
 
-The bar chart below illustrates the total number of successes or failures for movies directed by Steven Spielberg, starring either Tom Cruise or Harrison Ford.
-
-Tom Cruise: Movies starring Tom Cruise have a total count of 2.
-Harrison Ford: Movies starring Harrison Ford have a total count of 4.
 ![image](https://github.com/user-attachments/assets/54c30b63-d325-4a50-81fe-4a05e34ea641)
 
