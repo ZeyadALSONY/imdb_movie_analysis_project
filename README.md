@@ -83,3 +83,8 @@ plot_keywords
 
 ![image](https://github.com/user-attachments/assets/54c30b63-d325-4a50-81fe-4a05e34ea641)
 
+## Recommendations
+- Based on the results, I recommend that the movie company continue working with director Steven Spielberg and actors Harrison Ford and Tom Cruise to produce successful films.
+
+
+
