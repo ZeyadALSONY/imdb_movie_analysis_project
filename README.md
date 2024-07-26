@@ -7,9 +7,10 @@
 - [Data Cleaning](#Data-Cleaning)
 - [Data Analysis](#Data-Analysis)
 - [Results-Findings](#Results-Findings)
+-  [Results-Findings](#Results-Findings)
 
 
-## Project Overview
+## Project Goal
 ---
 This project aims to help a film production company develop a successful movie by analyzing IMDB movie data. The analysis will examine various factors contributing to film success.
 
