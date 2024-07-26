@@ -7,7 +7,7 @@
 - [Data Cleaning](#Data-Cleaning)
 - [Data Analysis](#Data-Analysis)
 - [Results-Findings](#Results-Findings)
--  [Results-Findings](#Results-Findings)
+- [Recommendations](#Recommendations)
 
 
 ## Project Goal
